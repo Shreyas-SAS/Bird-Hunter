@@ -2,7 +2,7 @@
 
 python3 shooting game made using the pygame Library.
 
-In this game the basic aim is to get as many tiles as you can which do not have a mine on it.
+shoot as many birds as you can while bieng safe.
 
 ---
 
